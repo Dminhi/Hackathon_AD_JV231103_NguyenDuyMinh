@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "iPhone 15 Promax",
+        "price": 20000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.png"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 14 Promax",
+        "price": 24050000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-plus-pink-pure-back-iphone-15-plus-pink-pure-front-2up-screen-usen_638301951318113946.png"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 13 Promax",
+        "price": 30000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+    },
+    {
+        "id": 4,
+        "name": "iPhone 10 Promax",
+        "price": 13000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2024/01/30/samsung-galaxy-s24-3.png"
+    },
+    {
+        "id": 5,
+        "name": "iPhone 9 Promax",
+        "price": 19000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2024/01/16/s24-ultra-den.png"
+    },
+    {
+        "id": 6,
+        "name": "iPhone 8 Promax",
+        "price": 15000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+    },
+    {
+        "id": 7,
+        "name": "iPhone 7 Promax",
+        "price": 11000000,
+        "img": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/09/13/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.png"
+    }
+]
